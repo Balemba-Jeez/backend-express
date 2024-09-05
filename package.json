@@ -1,0 +1,28 @@
+{
+  "name": "gasspace-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balemba-Jeez/Level2_Defense-_Code.git"
+  },
+  "author": "balembajessy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balemba-Jeez/Level2_Defense-_Code/issues"
+  },
+  "homepage": "https://github.com/Balemba-Jeez/Level2_Defense-_Code#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.1.4",
+    "opencage-api-client": "^1.0.7"
+  }
+}
